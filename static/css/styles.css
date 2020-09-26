@@ -1,0 +1,16 @@
+footer {
+	margin-top: 20vh;
+}
+
+#letter {
+	overflow-y: scroll;
+	height:35vh;
+}
+
+.hide {
+	display: none;
+}
+
+#dropdownButton {
+	background-color: !important white;
+}
