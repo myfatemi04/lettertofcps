@@ -12,7 +12,7 @@ def main(request):
 		subjects = [
 			'A letter listing my concerns',
 			'Concerns with the recent admissions proposal',
-			''
+			"Concerns with FCPS' proposal to change the TJ admissions system"
 		]
 		subject = choice(subjects)
 		context = {
